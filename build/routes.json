@@ -116158,7 +116158,7 @@
         "maintainers": [
           "akynazh"
         ],
-        "description": "::: tip\n将榜单条目集合到一个列表中，可避免推送大量条目，更符合阅读习惯且有热度排序，推荐使用。\n:::",
+        "description": "::: tip\n将榜单条目集合到一个列表中，且有热度排序，可避免推送大量条目。\n:::",
         "location": "list.ts",
         "module": "() => import('@/routes/tophub/list.ts')"
       }
